@@ -7,11 +7,17 @@ const About = () => {
             <div className='pb-8 mt-20 '>
                 <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
             </div>
-            <p className='text-xl mt-10'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, id in veniam, eius ducimus aliquam ex et sunt itaque esse est doloribus illo. Atque ea quisquam architecto explicabo dolorem commodi, sapiente itaque voluptates reiciendis saepe velit et nemo. Eaque aliquid soluta optio quibusdam facere blanditiis dolorem id distinctio vitae quos.
+            <p className='text-xl mt-10'>I am a dedicated and skilled <span className='font-signature'>'Software Developer'</span> with a profound expertise in Python and the Django framework. My journey in the world of programming has equipped me with a deep understanding of these technologies, allowing me to create robust and efficient web applications.
+
+Python, as my primary programming language, has been my foundation for building dynamic and versatile web solutions. With Python, I've developed complex backend logic and integrated various data sources to create seamless user experiences.
+
+
 
             </p>
             <br />
-            <p className='text-xl'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur itaque necessitatibus hic doloremque sapiente quas, obcaecati enim magnam asperiores dicta deserunt. Eos, iusto ipsam, ipsa vitae a sunt beatae fugiat voluptatibus natus corporis sed doloremque aspernatur. Magni expedita sequi vel, optio odio quas aperiam, consectetur blanditiis fuga possimus nostrum. Ipsum.</p>
+            <p className='text-xl'>In addition to my Python and Django proficiency, I am well-versed in front-end technologies such as Bootstrap, HTML, CSS,JavaScript,Tailwind . This combination of skills enables me to craft visually appealing and responsive user interfaces that complement the powerful functionality of my web applications.
+
+My passion for programming drives me to stay up-to-date with the latest trends and best practices in web development, ensuring that I deliver high-quality, maintainable code. With a strong foundation in Python and Django, and a knack for creating engaging user interfaces with Bootstrap, HTML, and CSS, I am well-equipped to tackle a wide range of web development projects.</p>
         </div>
     </div>
   )
