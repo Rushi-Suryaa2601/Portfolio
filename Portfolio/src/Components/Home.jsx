@@ -1,6 +1,6 @@
 import React from 'react'
 import Myimg from "../assets/portfolio/Myimg.jpg";
-import {MdArrowForward, MdOutlineKeyboardArrowRight} from 'react-icons/md'
+import {MdOutlineKeyboardArrowRight} from 'react-icons/md'
 import {Link} from 'react-scroll'
 
 const Home = () => {
