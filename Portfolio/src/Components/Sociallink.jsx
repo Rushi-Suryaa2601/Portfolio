@@ -10,7 +10,7 @@ const Sociallink = () => {
             id:1,
             child:(
                 <>
-                    LinkedIn <FaLinkedin Size={40} />
+                    LinkedIn <FaLinkedin size={40} />
                 </>
             ),
             href:'https://Linkedin.com',
@@ -20,7 +20,7 @@ const Sociallink = () => {
             id:2,
             child:(
                 <>
-                    GitHub <FaGithub Size={40} />
+                    GitHub <FaGithub size={40} />
                 </>
             ),
             href:'https://github.com',
@@ -30,7 +30,7 @@ const Sociallink = () => {
             id:3,
             child:(
                 <>
-                    Mail <HiOutlineMail Size={40} />
+                    Mail <HiOutlineMail size={40} />
                 </>
             ),
             href:'mailto:suryagandhrushi4455@gmail.com',
@@ -39,7 +39,7 @@ const Sociallink = () => {
             id:4,
             child:(
                 <>
-                    Resume <BsFillPersonLinesFill Size={40} />
+                    Resume <BsFillPersonLinesFill size={40} />
                 </>
             ),
             href:'/MY RESUME.pdf',
